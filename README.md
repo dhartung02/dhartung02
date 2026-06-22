@@ -1,32 +1,46 @@
-# Hi, I'm Dustin Hartung
+Hi, I’m Dustin Hartung
 
-Principal Product Manager with 20+ years of experience building enterprise SaaS, AI, and data platform products.
+Principal Product Manager with 20+ years building enterprise SaaS, AI-enabled product workflows, customer data platforms, marketing technology, and data products.
 
-## Current Focus
+I operate at the intersection of product strategy, technical systems, customer data, and AI — translating ambiguous customer and business needs into scalable platform capabilities, clear product requirements, and measurable outcomes.
 
-- AI Investment Manager
-- Agentic AI workflows
-- Claude Code
-- OpenAI Codex
-- MCP integrations
-- Product strategy
-- Enterprise data platforms
-- Customer data platforms
+**Current Focus**
 
-## Technologies
+* AI-enabled product development workflows
+* Agentic AI, Claude Code, OpenAI Codex, and MCP integrations
+* Customer data platforms, CRM, and marketing technology
+* Product catalog intelligence, segmentation, and personalization
+* Enterprise SaaS platform strategy
+* Technical product leadership across data, APIs, integrations, and analytics
 
-- Python
-- TypeScript
-- React Native
-- FastAPI
-- Docker
-- PostgreSQL
-- Snowflake
-- GitHub Actions
-- Claude Code
-- OpenAI Codex
-- MCP
+**Featured Work**
 
-## Philosophy
+**AI Product Operating System**
 
-I believe product leaders should deeply understand technology and use AI to accelerate product strategy, discovery, prototyping, and execution.
+Reusable AI workflows, Claude Code skills, MCP integrations, and product development patterns for PRDs, roadmap planning, release notes, engineering handoffs, research synthesis, and quality gates.
+
+Product Catalog & Customer Intelligence
+
+Product thinking and platform strategy around turning product/catalog data into segmentation, personalization, insights, recommendations, and revenue-driving customer experiences.
+
+**Mobile Companion Experiences**
+
+Product concepts and prototypes focused on using mobile to augment—not replicate—desktop workflows through quick insights, alerts, approvals, recommendations, and AI-driven actions.
+
+**AI Investment Manager**
+
+A personal project exploring explainable, risk-aware investment decision support using structured data, scoring, auditability, and human-in-the-loop workflows.
+
+**Technologies**
+
+* Python, TypeScript, React Native
+* FastAPI, PostgreSQL, Docker
+* Snowflake, SQL, data pipelines, analytics
+* GitHub Actions, observability, test automation
+* Claude Code, OpenAI Codex, MCP, agentic AI workflows
+
+**Product Philosophy**
+
+I believe strong product leaders should understand the technology deeply enough to make better product decisions, reduce ambiguity for engineering teams, and identify where platforms can create differentiated value.
+
+AI is most powerful when it changes the workflow — not when it is bolted on as a feature. My focus is on using AI to accelerate product discovery, improve decision quality, strengthen execution, and create smarter customer experiences.
