@@ -19,7 +19,7 @@ I operate at the intersection of product strategy, technical systems, customer d
 
 Reusable AI workflows, Claude Code skills, MCP integrations, and product development patterns for PRDs, roadmap planning, release notes, engineering handoffs, research synthesis, and quality gates.
 
-Product Catalog & Customer Intelligence
+**Product Catalog & Customer Intelligence**
 
 Product thinking and platform strategy around turning product/catalog data into segmentation, personalization, insights, recommendations, and revenue-driving customer experiences.
 
