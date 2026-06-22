@@ -23,6 +23,10 @@ Reusable AI workflows, Claude Code skills, MCP integrations, and product develop
 
 Product thinking and platform strategy around turning product/catalog data into segmentation, personalization, insights, recommendations, and revenue-driving customer experiences.
 
+**Reqon — AI-Assisted Job Search CRM**
+
+A self-hosted product workflow system for managing job opportunities, research, outreach, application status, and decision-making. Built around structured data, deterministic workflows, optional AI assistance, and human-in-the-loop review.
+
 **Mobile Companion Experiences**
 
 Product concepts and prototypes focused on using mobile to augment—not replicate—desktop workflows through quick insights, alerts, approvals, recommendations, and AI-driven actions.
