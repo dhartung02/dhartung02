@@ -23,9 +23,9 @@ Reusable AI workflows, Claude Code skills, MCP integrations, and product develop
 
 Product thinking and platform strategy around turning product/catalog data into segmentation, personalization, insights, recommendations, and revenue-driving customer experiences.
 
-**[Reqon - AI-Assisted Job Search CRM](https://github.com/dhartung02/reqon)**
+**[Reqon - AI-Assisted Job Search CRM](https://reqon.app)**
 
-A self-hosted job-search command center that turns messy opportunity tracking into structured workflows — multi-source scouting, fit/EV scoring, and human-in-the-loop AI assist across web, iOS/iPad, and a Chrome extension. Node/Express + React Native; built to demonstrate product and data-platform thinking end to end.
+A managed or self-hosted job-search command center that turns messy opportunity tracking into structured workflows — multi-source scouting, fit/EV scoring, and human-in-the-loop AI assist across web, iOS/iPad, and a Chrome extension. Node/Express + React Native; built to demonstrate product and data-platform thinking end to end.
 
 **Mobile Companion Experiences**
 
